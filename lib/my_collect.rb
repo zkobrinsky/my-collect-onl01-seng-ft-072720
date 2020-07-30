@@ -5,4 +5,5 @@ def my_collect(array)
   while i < array.length
     collection << array[i]
     i = i+1
+  end
 end
